@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #14191b;
+  position: relative;
+}
+
+.moon {
+  width: 15%;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+.earth {
+  width: 90%;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #d7d1cb;
+  margin: auto;
+  font-family: din-1451-lt-pro-engschrift, sans-serif;
+  padding-top: 10%;
+}
+
+h2 {
+  font-family: din-1451-lt-pro-engschrift, sans-serif;
+  font-size: 2.5rem;
+  color: #d7d1cb;
+  margin-top: auto;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: din-1451-lt-pro-engschrift, sans-serif;
+  color: #14191b;
+  margin-top: auto;
+}
+
+p {
+  font-family: din-1451-lt-pro-engschrift, sans-serif;
+  color: #14191b;
+  margin-top: auto;
+  font-size: 25px;
+}
+
+.background {
+  background-color: #14191b;
+}
+
+.profile {
+  background-color: #ffc964;
+  position: relative;
+}
+
+.portrait {
+  padding-top: 50px;
+}
+
+.hello {
+  color: #14191b;
+  padding-top: 20px;
+}
+.intro {
+  color: #14191b;
+  font-size: 25px;
+}
+
+.skills {
+  background-color: #14191b;
+  position: relative;
+  }
+
+.projects {
+  color: #ffc964;
+  padding-top: 50px;
+}
+
+.imageone {
+  width: 25%;
+  padding-bottom: 30px;
+}
+
+.oj {
+  color: #ffc964;
+  font-size: 25px;
+}
+
+a {
+  color: #ffc964;
+  text-decoration: none;
+  font-family: din-1451-lt-pro-engschrift, sans-serif;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #d7d1cb;
+
+}
+
+.tree {
+  color: #ffc964;
+  font-size: 25px;
+}
+
+.imagetwo {
+  width: 25%;
+  padding-top: 50px;
+}
+
+.interests {
+  background-color: #ffc964;
+  position: relative;
+  padding-top: 50px;
+}
+
+.title {
+  color: #14191b;
+}
+
+.bodyone {
+  padding-bottom: 50px;
+}
+
+.contact-me {
+  background-color: #14191b;
+  position: relative;
+}
+.intouch {
+  color: #ffc964;
+  padding-top: 50px
+}
+
+.number {
+  color: #ffc964;
+}
+
+.bottom-container {
+  background-color: #14191b;
+}
+
+.footer-link {
+  color: #ffc964;
+  padding-bottom: 50px;
+}
+
+.copyright {
+  color: #ffc964;
+  font-size: 15px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+/* #d7d1cb #FFFFFF #ffc964 #14191b */
